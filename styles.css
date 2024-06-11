@@ -133,6 +133,11 @@ body {
     flex-direction: column;
 }
 
+.center {
+    align-items: center;
+    justify-content: center;
+}
+
 .slider {
     flex: 1;
     overflow-y: scroll;
